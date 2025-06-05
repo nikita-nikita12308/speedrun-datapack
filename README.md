@@ -1,6 +1,6 @@
 # speedrun-datapack
 <p align="center">
-<img src="https://res.cloudinary.com/atapas/image/upload/v1632156569/demos/GitHub-Projects_tyxnkl.png" alt="name"/>
+<img src="https://res.cloudinary.com/doygkumuf/image/upload/v1749124628/user-photo/oa9xiupw2qqywwerv2sf.png" alt="name"/>
 <p/>
   
 # 👋 Introducing `Speedrun Datapack`
@@ -87,6 +87,6 @@ Bossbar counter shows incorrect values — needs validation of item tracking log
 # 💡 Want to contribute?
 Any kind of positive contribution is welcome! Please help us to grow by contributing to the project.
 
-If you wish to contribute, you can work on any features [listed here](https://github.com/atapas/model-repo#-upcoming-features) or create one on your own. After adding your code, please send us a Pull Request.
+If you wish to contribute, you can work on any features [listed here](https://github.com/nikita-nikita12308/speedrun-datapack#-upcoming-features) or create one on your own. After adding your code, please send us a Pull Request.
 
 > Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
