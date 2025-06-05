@@ -1,0 +1,4 @@
+{
+  "values": ["speedrun_func:tick", "speedrun_func:dimension_tick", "speedrun_func:locations/tick"]
+}
+

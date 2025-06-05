@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "bastion_found": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "location": {
+          "structure": "minecraft:bastion_remnant"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "speedrun_func:locations/found_bastion"
+  }
+}

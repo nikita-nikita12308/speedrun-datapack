@@ -1,0 +1,17 @@
+Speedrun Datapack for Minecraft
+===============================
+
+This datapack is designed to enhance the Minecraft speedrun experience.
+
+Features:
+- Bossbars for blaze rod and ender pearl tracking
+- Progress goals in Nether, Overworld
+- Coordinate display for Bastion, Fortress, and Portal
+- Timer system and player death tracking
+
+Created by: 9_24 group
+GitHub: https://github.com/nikita-nikita12308/speedrun-datapack
+
+To install:
+1. Copy this folder into `.minecraft/saves/[your_world]/datapacks/`
+2. Run /reload and follow in-game instructions

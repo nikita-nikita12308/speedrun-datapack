@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "fortress_found": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "location": {
+          "structure": "minecraft:fortress"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "speedrun_func:locations/found_fortress"
+  }
+}

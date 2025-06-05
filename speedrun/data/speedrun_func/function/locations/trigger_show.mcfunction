@@ -1,0 +1,1 @@
+function speedrun_func:locations/show
